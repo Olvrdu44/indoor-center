@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="fr.rainetcom.laviere" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Tennis Club de la Vière</name>
+<widget id="fr.rainetcom.indoorcenter" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Indoor Center</name>
     <description>
         Réservez vos terrains, ajoutez-vous à des parties et participez aux animations
     </description>
